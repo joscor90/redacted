@@ -4,7 +4,6 @@ text = gets.chomp
 puts "Word to be Redacted"
 redact = gets.chomp
 
-
-
-
+#Text Array
+words = text.split(" ")
 
